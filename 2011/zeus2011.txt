@@ -1,0 +1,170 @@
+﻿
+=============================================================================
+  Dritter zentral-europäischer Workshop über Services und ihre Komposition
+      3nd Central-European Workshop on Services and their Composition
+
+                  February 21-22, 2011 * Karlsruhe, Germany 
+               		http://zeus2011.aifb.kit.edu/
+=============================================================================
+
+
+Ziele / Objectives
+==================
+
+1. Plattform zum Aufbau eines Netzwerks für junge Forscher /
+   Establish contacts between young researchers in the region
+
+   Der Workshop zielt darauf ab, junge deutschsprachige Forscher im
+   Service-Bereich zusammenzubringen. Wir möchten ein wissenschaftliches
+   Netzwerk bilden, das intensiv zu geringen Kosten benutzt werden kann. Der
+   Workshop soll eine Plattform zur Präsentation aktueller
+   Forschungsergebnisse und -bereiche bieten.
+
+   We aim at bringing together young researchers who work in the same
+   geographic and the same scientific region. This way, we would like to
+   provide an opportunity for people to establish a scientific network that
+   can be intensely used, including mutual visits at affordable costs. The
+   workshop will serve as platform to present current research ideas and
+   research directions. German will be the main language at the workshop.
+   English talks and corresponding discussions, however, are welcome.
+
+2. Diskussion von neuen Ideen / Discuss fresh ideas
+
+   Wir bieten ein Forum zur Diskussion von Ideen an, die sich in einem frühen
+   Entwicklungsstadium befinden. Die Teilnehmer bekommen Rückmeldungen
+   außerhalb ihrer Gruppe und können dies zur Verbesserung eines
+   Konferenzpapiers verwenden. Dies unterscheidet uns von anderen Workshops
+   und Konferenzen.
+
+   We offer a forum to discuss ideas at a level that is more
+   work-in-progress than in a traditional conference. Participants can get
+   feedback from outside their group before a submission to a reviewed
+   conference. This makes ZEUS an original opportunity to discuss ideas.
+
+Themen / Topics
+===============
+
+   Die Themen des Workshops decken alle Themen der Entwicklung von Diensten,
+   ihre Orchestrierung und Choreographie ab.
+
+   The workshop covers all aspects of engineering services, their
+   orchestration and choreography.
+
+   Topics include:
+
+     * Specification                     * Discovery
+     * Modelling                         * Execution
+     * Generation and Synthesis          * Monitoring
+     * Simulation                        * Optimisation
+     * Analysis and Verification         * Change Management
+     * Testing                           * Configuration Management
+     * Deployment                       
+
+Einreichung / Submission
+========================
+
+   Ergebnisse können in Form von Vorträgen und Werkzeugdemonstrationen 
+   präsentiert werden. Eine Begutachtung findet statt, um die Beiträge auf
+   Relevanz sowie die Einhaltung eines wissenschaftlichen Mindeststandards
+   hin zu prüfen und den Autoren erstes Feedback zu geben.
+
+   Schriftliche Ausarbeitungen und Werkzeugpräsentationen können bis zum 
+   15. Januar 2011 über Easychair
+   (http://www.easychair.org/conferences/?conf=zeus2011) eingereicht werden.
+   Bitte verwenden Sie den Springer LNCS-Stil
+   (http://www.springer.com/comp/lncs/Authors.html).
+
+   Beiträge sollten nicht länger als sechs Seiten sein. Bitte schicken Sie 
+   den Beitrag im PDF-Format (DIN A4) ohne Seitenzahlen und ohne Kopf-/
+   Fußzeilen.
+
+   Beiträge können in englischer oder deutscher Sprache verfasst sein.
+
+   Falls der Autor nicht widerspricht, wird seine Einreichung in einem
+   CEUR-Workshop-Proceedings (http://ceur-ws.org) veröffentlicht und während
+   des Workshops verfügbar sein.
+
+
+   Results can be presented in talks or tool demonstrations. Submissions will
+   be reviewed, in order to assure general fitness regarding content, 
+   readability and scope and to give first feedback to the authors.
+
+   Papers and tool demonstrations can be submitted until January 15, 2011
+   via Easychair (http://www.easychair.org/conferences/?conf=zeus2011).
+   Please use the Springer LNCS style
+   (http://www.springer.com/comp/lncs/Authors.html).
+
+   Submissions should not exceed 6 pages. Please send your submission as 
+   PDF (paper format DIN A4) without page numbers and without headings 
+   and footer.
+
+   Unless refused by the author, submissions will be published in a CEUR
+   Workshop Proceedings (http://ceur-ws.org) and will be available at the
+   workshop.
+
+Teilnehmergebühr / Fee
+======================
+
+   Die Teilnahme des Workshops ist kostenlos. Die Teilnehmer zahlen selbst
+   für ihre Reise, Unterkunft, Mittag- und Abendessen. Vom Veranstalter
+   werden Kaffee und kleine Snacks zur Verfügung gestellt.
+
+   The participation in the workshop is free of charge. Participants pay for
+   travel, accommodation, workshop lunch, and workshop dinner. Expenses for
+   coffee and small snacks are covered by the organizers.
+
+Termine / Dates
+===============
+
+   * Einreichung von Beiträgen/Submission deadline:  January 15, 2011
+   * Benachrichtigung/Notification:                  January 31, 2011
+   * Einreichung der Endfassung/Final Version:       February 12, 2011
+   * Anmeldung/Registration:                         February 14, 2011
+
+   Der Workshop wird von Montag, den 21. Februar 2011 bis Dienstag, 
+   den 22. Februar 2011 Karlsruher Institut für Technologie stattfinden.
+
+   The workshop will take place on February 21-22, 2011 on the campus of
+   the Karlsruhe Institute of Technology.
+
+Veranstaltungsort / Venue
+=========================
+
+   Der Workshop wird am Campus Süd des Karlsruher Institut für Technologie stattfinden. 
+   Der Hauptbahnhof ist über die Straßenbahnhaltestelle "Kronenplatz/KIT Campus Süd" schnell zu erreichen.
+   Die zu Karlsruhe nächstgelegenen Flughäfen sind "Frankfurter Airport", "Flughafen Stuttgart" und "Baden-Airpark". 
+   Informationen zur Anreise, sowie eine Auswahl preiswerter Unterkünfte
+   werden auf der Webseite veröffentlicht werden.
+
+   The workshop will take place on the campus south of Karlsruhe Institute of Technology.
+   The main station can be reached via the nearby tram stop "Kronenplatz/KIT Campus Süd".
+   Travel information and a selection of affordable accommodations will be published on the website.
+   
+Weitere Informationen / Further information
+===========================================
+
+   Web:     http://zeus2011.aifb.kit.edu/
+   E-mail:  Zeus2011@aifb.kit.edu
+
+Beteiligte Personen / Persons involved
+======================================
+
+   Organizers
+   
+   * Daniel Eichhorn, Karlsruhe Institute of Technology
+   * Huayu Zhang, Karlsruhe Institute of Technology
+
+   Program Committee
+   
+   * Sudhir Agarwal, KSRI - Karlsruhe Service Research Institute
+   * Gero Decker, signavio
+   * Daniel Eichhorn, Karlsruher Institut für Technologie
+   * Christian Gierds, Humboldt-Universität zu Berlin
+   * Thomas Hornung, Albert-Ludwigs-Universität Freiburg
+   * Oliver Kopp, University of Stuttgart
+   * Agnes Koschmider, University of Pretoria
+   * Niels Lohmann, University of Rostock
+   * Christian Stahl, Eindhoven University of Technology
+   * Jan Sürmeli, Humboldt-Universität zu Berlin
+   * Matthias Weidlich, Hasso Plattner Institute Potsdam
+   * Huayu Zhang, Karlsruher Institut für Technologie 

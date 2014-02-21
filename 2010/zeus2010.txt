@@ -1,0 +1,178 @@
+﻿ZEUS 2010: CALL FOR PAPERS                  [Apologies for multiple postings]
+
+=============================================================================
+  Zweiter zentral-europäischer Workshop über Services und ihre Komposition
+      2nd Central-European Workshop on Services and their Composition
+
+                  February 25-26, 2010 * Berlin, Germany 
+               http://www.informatik.hu-berlin.de/top/zeus
+=============================================================================
+
+
+Ziele / Objectives
+==================
+
+1. Plattform zum Aufbau eines Netzwerks für junge Forscher /
+   Establish contacts between young researchers in the region
+
+   Der Workshop zielt darauf ab, junge deutschsprachige Forscher im
+   Service-Bereich zusammenzubringen. Wir möchten ein wissenschaftliches
+   Netzwerk bilden, das intensiv zu geringen Kosten benutzt werden kann. Der
+   Workshop soll eine Plattform zur Präsentation aktueller
+   Forschungsergebnisse und -bereiche bieten.
+
+   We aim at bringing together young researchers who work in the same
+   geographic and the same scientific region. This way, we would like to
+   provide an opportunity for people to establish a scientific network that
+   can be intensely used, including mutual visits at affordable costs. The
+   workshop will serve as platform to present current research ideas and
+   research directions. German will be the main language at the workshop.
+   English talks and corresponding discussions, however, are welcome.
+
+2. Diskussion von neuen Ideen / Discuss fresh ideas
+
+   Wir bieten ein Forum zur Diskussion von Ideen an, die sich in einem frühen
+   Entwicklungsstadium befinden. Die Teilnehmer bekommen Rückmeldungen
+   außerhalb ihrer Gruppe und können dies zur Verbesserung eines
+   Konferenzpapiers verwenden. Dies unterscheidet uns von anderen Workshops
+   und Konferenzen.
+
+   We offer a forum to discuss ideas at a level that is more
+   work-in-progress than in a traditional conference. Participants can get
+   feedback from outside their group before a submission to a reviewed
+   conference. This makes ZEUS an original opportunity to discuss ideas.
+
+Themen / Topics
+===============
+
+   Die Themen des Workshops decken alle Themen der Entwicklung von Diensten,
+   ihre Orchestrierung und Choreographie ab.
+
+   The workshop covers all aspects of engineering services, their
+   orchestration and choreography.
+
+   Topics include:
+
+     * Specification                     * Discovery
+     * Modelling                         * Execution
+     * Generation and Synthesis          * Monitoring
+     * Simulation                        * Optimisation
+     * Analysis and Verification         * Change Management
+     * Testing                           * Configuration Management
+     * Deployment                       
+
+Einreichung / Submission
+========================
+
+   Ergebnisse können in Form von Vorträgen und Werkzeugdemonstrationen 
+   präsentiert werden. Ein Begutachtung findet statt, um die Beiträge auf
+   Relevanz sowie die Einhaltung eines wissenschaftlichen Mindeststandards
+   hin zu prüfen und den Autoren erstes Feedback zu geben.
+
+   Schriftliche Ausarbeitungen und Werkzeugpräsentationen können bis zum 
+   3. Februar 2010 über Easychair
+   (http://www.easychair.org/conferences/?conf=zeus2010) eingereicht werden.
+   Bitte verwenden Sie den Springer LNCS-Stil
+   (http://www.springer.com/comp/lncs/Authors.html).
+
+   Beiträge sollten nicht länger als sechs Seiten sein. Bitte schicken Sie 
+   den Beitrag im PDF-Format (DIN A4) ohne Seitenzahlen und ohne Kopf-/
+   Fußzeilen.
+
+   Beiträge können in englischer oder deutscher Sprache verfasst sein.
+
+   Falls der Autor nicht widerspricht, wird seine Einreichung in einem
+   CEUR-Workshop-Proceedings (http://ceur-ws.org) veröffentlicht und während
+   des Workshops verfügbar sein.
+
+
+   Results can be presented in talks or tool demonstrations. Submissions will
+   be reviewed, in order to assure general fitness regarding content, 
+   readability and scope and to give first feedback to the authors.
+
+   Papers and tool demonstrations can be submitted until February 3, 2010
+   via Easychair (http://www.easychair.org/conferences/?conf=zeus2010).
+   Please use the Springer LNCS style
+   (http://www.springer.com/comp/lncs/Authors.html).
+
+   Submissions should not exceed 6 pages. Please send your submission as 
+   PDF (paper format DIN A4) without page numbers and without headings 
+   and footer.
+
+   Unless refused by the author, submissions will be published in a CEUR
+   Workshop Proceedings (http://ceur-ws.org) and will be available at the
+   workshop.
+
+Teilnehmergebühr / Fee
+======================
+
+   Die Teilnahme des Workshops ist kostenlos. Die Teilnehmer zahlen selbst
+   für ihre Reise, Unterkunft, Mittag- und Abendessen. Vom Veranstalter
+   werden Kaffee und kleine Snacks zur Verfügung gestellt.
+
+   The participation in the workshop free of charge. Participants pay for
+   travel, accommodation, workshop lunch, and workshop dinner. Expenses for
+   coffee and small snacks are covered by the organizers.
+
+Termine / Dates
+===============
+
+   * Einreichung von Beiträgen/Submission deadline:  February 03, 2010
+   * Benachrichtigung/Notification:                  February 11, 2010
+   * Einreichung der Endfassung/Final Version:       February 15, 2010
+   * Anmeldung/Registration:                         February 15, 2010
+
+   Der Workshop wird von Donnerstag, den 25. Februar 2010 bis Freitag, 
+   den 26. Februar 2010 an der Humboldt-Universität zu Berlin statt finden.
+
+   The workshop will take place on February 25-26, 2010 on the campus of
+   the Humboldt-Universität zu Berlin.
+
+Veranstaltungsort / Venue
+=========================
+
+   In Laufweite von Brandenburger Tor, Reichstag und Museumsinsel wird der 
+   Workshop auf dem zentralen Campus der Humboldt-Universität zu Berlin im
+   Stadteil Mitte stattfinden. Über den nahe gelegenen S-Bhf Friedrichstr.
+   sind die Flughäfen Schönefeld und Tegel sowie der Hauptbahnhof schnell
+   zu erreichen. 
+   Informationen zur Anreise, sowie eine Auswahl preiswerter Unterkünfte
+   finden sich auf der Webseite.
+
+   Close to Brandenburg Gate, the Reichstag building and the Museum Island, 
+   the workshop will take place on the central campus of Humboldt-Universität 
+   zu Berlin in Berlin-Mitte. The airports of Tegel and Schönefeld as well as 
+   the main station can be reached via the nearby city train station 
+   Friedrichstr.
+   Travel information and a selection of affordable accommodations can be 
+   found on the website.
+   
+Weitere Informationen / Further information
+===========================================
+
+   Web:     http://www.informatik.hu-berlin.de/top/zeus
+   E-mail:  zeus2010@easychair.org
+
+Beteiligte Personen / Persons involved
+======================================
+
+   Organizers
+   
+   * Christian Gierds, Humboldt-Universität zu Berlin
+   * Jan Sürmeli, Humboldt-Universität zu Berlin
+
+   Program Committee
+   
+   * Gero Decker, Signavio
+   * Christian Gierds, Humboldt-Universität zu Berlin
+   * Katharina Görlach, University of Stuttgart
+   * Oliver Kopp, University of Stuttgart
+   * Frank Michael Kraft, SAP
+   * Niels Lohmann, University of Rostock
+   * Jan Mendling, Humboldt-Universität zu Berlin
+   * Christian Stahl, Eindhoven University of Technology
+   * Vladimir Stantchev, Technische Universität Berlin
+   * Jan Sürmeli, Humboldt-Universität zu Berlin
+   * Hagen Völzer, IBM Research Zurich
+   * Matthias Weidlich, Hasso Plattner Institute Potsdam
+   

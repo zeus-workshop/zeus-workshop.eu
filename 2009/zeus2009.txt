@@ -1,0 +1,151 @@
+ZEUS 2009: CALL FOR PAPERS                  [Apologies for multiple postings]
+
+=============================================================================
+   Erster zentral-europäischer Workshop über Services und ihre Komposition
+       1st Central-European Workshop on Services and their Composition
+       
+    March 2-3, 2009 * Stuttgart, Germany * www.iaas.uni-stuttgart.de/zeus
+=============================================================================
+
+
+Ziele / Objectives
+==================
+
+1. Plattform zum Aufbau eines Netzwerks für junge Forscher /
+   Establish contacts between young researchers in the region
+
+    Der Workshop zielt darauf ab, junge deutschsprachige Forscher im
+    Service-Bereich zusammenzubringen. Wir möchten ein wissenschaftliches
+    Netzwerk bilden, das intensiv zu geringen Kosten benutzt werden kann. Der
+    Workshop soll eine Plattform zur Präsentation aktueller
+    Forschungsergebnisse und -bereiche bieten.
+    
+    We aim at bringing together young researchers who work in the same
+    geographic and the same scientific region. This way, we would like to
+    provide an opportunity for people to establish a scientific network that
+    can be intensely used, including mutual visits at affordable costs. The
+    workshop will serve as platform to present current research ideas and
+    research directions. German will be the main language at the workshop.
+    English talks and corresponding discussions, however, are welcome.
+
+2. Diskussion von neuen Ideen / Discuss fresh ideas
+
+    Wir bieten ein Forum zur Diskussion von Ideen an, die sich in einem frühen
+    Entwicklungsstadium befinden. Die Teilnehmer bekommen Rückmeldungen
+    außerhalb ihrer Gruppe und können dies zur Verbesserung eines
+    Konferenzpapiers verwenden. Dies unterscheidet uns von anderen Workshops
+    und Konferenzen.
+    
+    We offer a forum to discuss ideas at a level that is more
+    work-in-progress than in a traditional conference. Participants can get
+    feedback from outside their group before a submission to a reviewed
+    conference. This makes ZEUS an original opportunity to discuss ideas.
+
+Themen / Topics
+===============
+
+    Die Themen des Workshops decken alle Themen der Entwicklung von Diensten,
+    ihre Orchestrierung und Choreographie ab.
+    
+    The workshop covers all aspects of engineering services, their
+    orchestration and choreography.
+
+    Topics include:
+
+      * Specification                     * Discovery
+      * Modelling                         * Execution
+      * Generation and Synthesis          * Monitoring
+      * Simulation                        * Optimisation
+      * Analysis and Verification         * Change Management
+      * Testing                           * Configuration Management
+      * Deployment                        * Rahmenbedingungen / Modalities
+    
+Einreichung / Submission
+========================    
+    
+    Ergebnisse können in Form von Vorträgen und Werkzeugdemonstrationen
+    präsentiert werden. Ein Auswahlverfahren findet nicht statt, aber die
+    Beiträge werden auf Relevanz sowie die Einhaltung eines wissenschaftlichen
+    Mindeststandards hin geprüft.
+    
+    Schriftliche Ausarbeitungen und Werkzeugpräsentationen können bis zum 15.
+    Februar 2009 über Easychair
+    (http://www.easychair.org/conferences/?conf=zeus2009) eingereicht werden.
+    Bitte verwenden Sie den Springer LNCS-Stil
+    (http://www.springer.com/comp/lncs/Authors.html).
+    
+    Beiträge sollten nicht länger als sechs Seiten sein.
+    
+    Beiträge können in englischer oder deutscher Sprache verfasst sein.
+    
+    Falls der Autor nicht widerspricht, wird seine Einreichung in einem
+    CEUR-Workshop-Proceedings (http://ceur-ws.org) veröffentlicht und während
+    des Workshops verfügbar sein.
+
+    
+    Results can be presented in talks or tool demonstrations. Submissions
+    will not be reviewed, but cross-checked for general fitness regarding
+    content, readability and scope.
+    
+    Papers and tool demonstrations can be submitted until February 15, 2009
+    via Easychair (http://www.easychair.org/conferences/?conf=zeus2009).
+    Please use the Springer LNCS style
+    (http://www.springer.com/comp/lncs/Authors.html).
+    
+    Submissions should not exceed 6 pages.
+    
+    Unless refused by the author, submissions will be published in a CEUR
+    Workshop Proceedings (http://ceur-ws.org) and will be available at the
+    workshop.
+
+Teilnehmergebühr / Fee
+======================
+
+    Die Teilnahme des Workshops ist kostenlos. Die Teilnehmer zahlen selbst
+    für ihre Reise, Unterkunft, Mittag- und Abendessen. Vom Veranstalter
+    werden Kaffee und kleine Snacks zur Verfügung gestellt.
+    
+    The participation in the workshop free of charge. Participants pay for
+    travel, accommodation, workshop lunch, and workshop dinner. Expenses for
+    coffee and small snacks are covered by the organizers.
+
+Termine / Dates
+===============
+
+    * Einreichung von Beiträgen/Submission deadline:  February 15, 2009
+    * Benachrichtigung/Notification:                  February 18, 2009
+    * Einreichung der Endfassung/Final Version:       February 20, 2009
+    * Anmeldung/Registration:                         February 20, 2009
+
+    Der Workshop wird von Montag, den 2. März 2009 bis Dienstag, den 3. März
+    2009 an der Universität Stuttgart statt finden.
+    
+    The workshop will take place on March 2-3, 2009 on the campus of
+    University of Stuttgart.
+
+Veranstaltungsort / Venue
+=========================
+
+    Stuttgart als Veranstaltungsort wurde auf Grund seiner vergleichsweisen
+    guten Lage und guter Verkehrsanbindung gewählt. Die Universität ist nur 15
+    Minuten vom Flughafen und 10 Minuten vom Hauptbahnhof entfernt.
+    
+    The University of Stuttgart has been chosen as workshop location, because
+    its central location. The university can be reached within 15 minutes from
+    the airport and 10 minutes from the main station.
+
+Weitere Informationen / Further information
+===========================================
+
+    Web:     http://www.iaas.uni-stuttgart.de/zeus
+    E-mail:  zeus2009@easychair.org
+
+Beteiligte Personen / Persons involved
+======================================
+
+    Oliver Kopp, University of Stuttgart
+    Frank Leymann, University of Stuttgart
+    Niels Lohmann, University of Rostock
+    Ganna Monakova, University of Stuttgart
+    Hagen Völzer, IBM Research Zurich
+    Karsten Wolf, University of Rostock

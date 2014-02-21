@@ -1,0 +1,154 @@
+ZEUS 2012: CALL FOR PAPERS                 [Apologies for cross-postings]
+
+=============================================================================
+4th Central-European Workshop on Services and their Composition (ZEUS)
+
+February 23-24, 2012 * Bamberg, Germany * http://zeus2012.pi.uni-bamberg.de/
+=============================================================================
+
+The 4th Central-European Workshop on Services and their Composition (ZEUS) will
+take place at Otto-Friedrich-University of Bamberg, Germany, on February 23rd and 24th, 2012.
+ZEUS is a free, but high-quality opportunity to discuss research work.
+================================
+Participation is free of charge!
+================================
+
+Objectives
+==========
+
+1. Discuss fresh ideas
+
+ZEUS is a classical scientific workshop. We are seeking creative ideas and
+ongoing scientific work with some preliminary results. ZEUS offers you an
+open-minded community of services researchers who are willing to discuss
+your ideas and help you improve your contents for highly ranked conferences.
+Your submission will be peer-reviewed by at least three independent reviewers
+and may be rejected, accepted as position statement or as full workshop paper.
+Innovation and creativity are the most important factors for ZEUS. Of course,
+the rules of technical correctness and scientific method must be adhered to as well.
+
+2. Establish young researchers’ network
+
+We aim at bringing together young researchers who work in the same geographic
+and the same scientific region. We would like to provide an opportunity for
+young researchers to establish a scientific network that can be intensely used,
+including mutual visits at affordable costs. The workshop will serve as platform
+to present current research ideas and research directions. Although grounded in
+the German-speaking services community, ZEUS is open to the European services
+community as a whole. Submissions and talks are expected to be provided in English.
+
+
+Topics
+======
+
+The topics of the ZEUS workshop are centered around choreography and orchestration
+technology which includes a rich set of facets. Formal aspects of choreography or
+orchestration languages for the purpose of analysis, synthesis or simulation of
+service compositions are as welcome as practical evaluations, use case-driven
+feasibility studies or technology adoption models. In particular, the use of
+choreography and orchestration models by different types of stakeholders, say
+software engineers and domain experts, and the application of choreography and
+orchestration in cloud-based computing models are of major interest.
+
+Topics include, but are not limited to:
+
+Integration of choreography and orchestration models
+Conformance notions
+Analysis, simulation and verification
+Modelling and specification
+Execution and monitoring
+Testing, deployment and practical issues
+Adoption models for choreography and orchestration technology
+Value and maturity assessment
+Multi-view and multi-perspective engineering
+Advanced communication qualities in choreography and orchestration scenarios
+Patterns
+Choreographies and orchestrations in Cloud environments
+Interoperability of language formats as well as models
+
+
+Submission
+==========
+
+Results can be presented in talks or tool demonstrations. Submissions will be reviewed
+by at least three reviewers each in order to assure general fitness regarding content,
+readability and scope and to give first feedback to the authors. Depending on innovation,
+technical soundness and presentation clarity, papers may be rejected or accepted as
+position statement or full paper.
+
+Papers and tool demonstrations can be submitted until January 20, 2012 via Easychair
+(https://www.easychair.org/conferences/?conf=zeus2012).
+Submitted papers shall not exceed 6 pages in Springer LNCS style.
+
+
+Important Dates
+===============
+
+Submission deadline: January 20, 2012
+Notification: February 3, 2012
+Camera Ready Version: February 15, 2011
+Registration: February 15, 2012
+Workshop: February 23-24, 2012
+Post-Workshop Proceedings Version: March 16, 2012
+
+
+Organization
+============
+
+1 Steering Committee
+
+Oliver Kopp, University of Stuttgart
+Niels Lohmann, University of Rostock
+Karsten Wolf, University of Rostock
+
+2 Program Chairs
+
+Oliver Kopp, University of Stuttgart
+Niels Lohmann, University of Rostock
+Andreas Schönberger, University of Bamberg
+
+3 Program Committee
+
+Rafael Accorsi, University of Freiburg
+Daniel Beimborn, University of Bamberg
+Gero Decker, signavio
+Daniel Eichhorn, Karlsruhe Institute of Technology
+Dirk Fahland, TU Eindhoven
+Christian Gierds, Humboldt-University of Berlin
+Christian Huemer, TU Vienna
+Meiko Jensen, Ruhr-University Bochum
+Nils Joachim, University of Bamberg
+Oliver Kopp, University of Stuttgart
+Agnes Koschmider, Karlsruhe Institute of Technology
+Philipp Leitner, TU Vienna
+Niels Lohmann, University of Rostock
+Christoph M. Pflügler, University of Augsburg
+Stephan Reiff-Marganiec, University of Leicester
+Andreas Schönberger, University of Bamberg
+Christian Stahl, Eindhoven University of Technology
+Jan Sürmeli, Humboldt-University of Berlin
+Robert Warschofsky, Hasso Plattner Institiute Potsdam
+Matthias Weidlich, Hasso Plattner Institiute Potsdam
+Andreas Wombacher, University of Twente
+Marco Zapletal, TU Vienna
+
+
+Contact
+=======
+
+Andreas Schoenberger
+
+Distributed and Mobile Systems Group
+Faculty Information Systems and Applied Computer Science
+Otto-Friedrich-University of Bamberg
+Feldkirchenstr. 21
+D-96052 Bamberg, Germany
+
+Mail: andreas.schoenberger(at)uni-bamberg.de; zeus2012@easychair.org
+
+
+More information
+================
+
+ZEUS 2012 Homepage: http://zeus2012.pi.uni-bamberg.de/
+ZEUS WS Series: http://zeus-workshop.eu/
