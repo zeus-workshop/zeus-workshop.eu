@@ -1,0 +1,6 @@
+* Add sponsor information
+* update Text on registration page "Expenses for coffee, snacks, lunch, and the workshop dinner (excl. drinks) are covered by the organizers."
+* Add call for papers
+* Add post proceedings deadline
+* Update the program
+* provide information about the social program
