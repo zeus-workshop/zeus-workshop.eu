@@ -90,6 +90,9 @@ original solutions in field of ZEUS. These papers must not exceed 6 pages (LNCS
 style). Workshop papers are reviewed according to the call for papers. Accepted
 papers shall be included in the proceedings and presented at the workshop.
 
+A fast-track submission process to an LNCS volume on web services and formal
+methods is planned for selected workshop papers.
+
 Positions papers: Position papers should draft a new idea and put it up for
 discussion at the workshop. Position papers should only be an extended abstract
 and must not exceed 3 pages (LNCS style). Position papers are briefly reviewed
@@ -111,7 +114,7 @@ expect during the demonstration.
 Important Dates
 ===============
 
-Submission: January 18, 2015
+Submission: January 18, 2015 EXTENSION: January 28, 2015
 Notification: February 6, 2015
 Camera-ready (pre-proceedings) version: February 13, 2015
 Registration: February 16, 2015
@@ -124,7 +127,7 @@ Organization
 Steering Committee
 
 - Oliver Kopp, University of Stuttgart
-- Niels Lohmann, University of Rostock
+- Niels Lohmann, Carmeq GmbH
 - Karsten Wolf, University of Rostock
 
 Program Chairs
@@ -134,7 +137,28 @@ Program Chairs
 
 Program Committee
 
-- TBA
+- Rafael Accorsi, University of Freiburg
+- Stefan Appel, Siemens AG
+- Anne Baumgrass, Hasso Plattner Institute at the University of Potsdam
+- Dirk Fahland, Eindhoven University of Technology
+- Christian Gierds, Humboldt University of Berlin
+- Georg Grossmann, University of South Australia
+- Nico Herzberg, Hasso Plattner Institute at the University of Potsdam
+- Meiko Jensen, Independent Centre for Privacy Protection Schleswig-Holstein
+- Oliver Kopp, University of Stuttgart
+- Agnes Koschmider, Karlsruhe Institute of Technology
+- Matthias Kunze, Hasso Plattner Institute at the University of Potsdam
+- Philipp Leitner, University of Zurich
+- Joerg Lenhard, University of Bamberg
+- Henrik Leopold, Vienna University of Economics and Business
+- Niels Lohmann, Carmeq GmbH
+- Andre Ludwig, Leipzig University
+- Jan Mendling, Vienna University of Economics and Business
+- Andreas Meyer, Hasso Plattner Institute at the University of Potsdam
+- Stephan Reiff-Marganiec, University of Leicester
+- Andreas Schoenberger, University of Bamberg
+- Ruben Verborgh, Ghent University
+- Matthias Weidlich, Imperial College London
 
 Contact
 =======
