@@ -31,7 +31,7 @@ original opportunity to discuss ideas.
 
 We see the ZEUS workshop as an opportunity to practice the whole range of
 scientific work. We do not take the sole focus on the submitted papers, but
-also on the presentations and the discussions during the workshop. To this end, 
+also on the presentations and the discussions during the workshop. To this end,
 we hand out a Best Presentation Award since 2010 at the end of the workshop to
 appreciate high quality presentations.
 
@@ -45,26 +45,26 @@ platform to present current research ideas and research directions.
 
 Topics
 ======
-The topics of the ZEUS workshop are centered around service technologies, which 
-includes a rich set of facets. The purpose of analysis, synthesis or simulation 
-of service technologies are as welcome as practical evaluations, use case-driven 
-feasibility studies, or technology adoption models. ZEUS also calls for 
+The topics of the ZEUS workshop are centered around service technologies, which
+includes a rich set of facets. The purpose of analysis, synthesis or simulation
+of service technologies are as welcome as practical evaluations, use case-driven
+feasibility studies, or technology adoption models. ZEUS also calls for
 contributions in the field of Cloud computing, RESTful services, and microservices.
 
 Topics include, but are not limited to:
 
-- Aspects around the service lifecycle (analysis, specification, modelling, 
+- Aspects around the service lifecycle (analysis, specification, modelling,
   testing, deployment, execution, monitoring)
 - Patterns, languages, reference models, and model extensions
-- Multi-view and multi-perspective engineering (SOA, choreographies, 
+- Multi-view and multi-perspective engineering (SOA, choreographies,
   collaborations, conversations, artifact-centric systems)
 - Formal methods, models, simulation, and verification
 - System architectures
-- RESTful systems (design aspects, hypermedia, linked data, mashups, 
+- RESTful systems (design aspects, hypermedia, linked data, mashups,
   other protocols, ...)
 - Microservices (architecture, lifecycle, deployment)
 - Workflows and business processes
-- Complex event processing (correlation, aggregation, transformation, 
+- Complex event processing (correlation, aggregation, transformation,
   monitoring, extraction)
 - Security, compliance, and non-functional requirements and properties
 - Cloud-enabled applications, migration to/from the Cloud, big data
@@ -83,13 +83,13 @@ regarding content, readability and scope and to give first feedback to the
 authors. Depending on innovation, technical soundness and presentation clarity,
 papers may be rejected or accepted as position or workshop papers.
 
-Workshop papers: 
+Workshop papers:
 Workshop papers are regular contributions that describe
 original solutions in field of ZEUS. These papers must not exceed 6 pages (LNCS
 style). Workshop papers are reviewed according to the call for papers. Accepted
 papers shall be included in the proceedings and presented at the workshop.
 
-Positions papers: 
+Positions papers:
 Position papers should draft a new idea and put it up for
 discussion at the workshop. Position papers should only be an extended abstract
 and must not exceed 3 pages (LNCS style). Position papers are briefly reviewed
@@ -101,7 +101,7 @@ but should not disallow extending the paper to a full paper submitted to a
 first class conference - even if the position paper is referenced and the
 delta is explained properly.
 
-Tools demonstrations: 
+Tools demonstrations:
 ZEUS also offers a forum to demonstrate implementations
 of techniques and algorithms in the area of the aforementioned topics to get
 early feedback and provide interesting insights for the audience. Tool
@@ -114,7 +114,7 @@ Important Dates
 
 Submission: December 04, 2015
 Notification: December 23, 2015
-Camera-ready (pre-proceedings) version: January 13, 2016 
+Camera-ready (pre-proceedings) version: January 13, 2016
 Registration: January 15, 2016
 Workshop: January 27/28, 2016
 
@@ -142,7 +142,7 @@ Stefan Schulte, s.schulte@infosys.tuwien.ac.at
 Christoph Hochreiner, c.hochreiner@infosys.tuwien.ac.at
 
 TU Wien
-Institut fuer Informationssysteme 184/1 
+Institut fuer Informationssysteme 184/1
 Distributed Systems Group
 Argentinierstrasse 8
 1040 Vienna, Austria
